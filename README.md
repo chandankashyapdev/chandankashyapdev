@@ -13,6 +13,7 @@ Email Me 👉 ✉️ **chandankashyapdev@gmail.com** For Collaboration/Project o
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-kashyap-47b2b0198) 
+[![Portfolio](https://img.shields.io/badge/Web-%230077B5.svg?logo=linkedin&logoColor=white)](https://chandan-portfolio-delta.vercel.app/) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chandankashyapdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
